@@ -1,2 +1,2 @@
 # Prueba-de-repositorio
-primer repo en github
+primer repositorio en github
